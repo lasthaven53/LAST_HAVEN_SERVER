@@ -1,0 +1,9 @@
+{
+  "name": "last-haven-private-multiplayer-server",
+  "version": "1.2.0",
+  "private": true,
+  "description": "Private WebSocket rooms for LAST HAVEN, up to 50 players in one private room",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
